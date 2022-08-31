@@ -1,8 +1,8 @@
 # 20 python projects
 1.Email Sender  
-2.  
-3.  
-4.  
+2.Word replacement program  
+3.Basic Calculator  
+4.Email Slicer
 5.  
 6.  
 7.  
