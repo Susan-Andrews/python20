@@ -18,5 +18,5 @@
 17.Python Automation   
 18.Web Scraper  
 19.Image Resizer  
-20.Graph Plotter
+20.Graph Plotter  
  Source- https://www.youtube.com/watch?v=pdy3nh1tn6I&t=900s
