@@ -8,6 +8,15 @@
 7.  
 8.  
 9.  
-10.  
-
-# Source- https://www.youtube.com/watch?v=pdy3nh1tn6I&t=900s
+10.
+11.  
+12.  
+13.  
+14.  
+15.  
+16.  
+17.  
+18.  
+19.  
+20.  
+ # Source- https://www.youtube.com/watch?v=pdy3nh1tn6I&t=900s
