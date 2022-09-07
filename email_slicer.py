@@ -2,7 +2,6 @@
 # split the email using the  @ ,save the first part as user name and second part as domain name
 # split domain using the .
 
-import email
 
 
 def main():
