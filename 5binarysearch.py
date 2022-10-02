@@ -1,3 +1,4 @@
+# less time complexity than other search algorithms -A binary search algorithm divides a search interval in half repeatedly in a sorted array. Binary search utilizes the fact that the array is sorted to reduce the time complexity to O (log n)
 # a function that takes a list and target parameter 
 # multilple variables:middle,start,end,steps
 # recursion or while loop
